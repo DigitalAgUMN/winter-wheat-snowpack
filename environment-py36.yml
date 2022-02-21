@@ -1,0 +1,59 @@
+name: winter-wheat-py36
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - basemap=1.3.0=py36ha7665c8_0
+  - basemap-data-hires=1.2.0=0
+  - blas=1.0=mkl
+  - certifi=2020.6.20=py36_0
+  - cycler=0.10.0=py36h009560c_0
+  - freetype=2.10.4=hd328e21_0
+  - geos=3.8.0=h33f27b4_0
+  - icc_rt=2019.0.0=h0cc432a_1
+  - intel-openmp=2020.2=254
+  - jpeg=9d=he774522_0
+  - kiwisolver=1.2.0=py36h74a9793_0
+  - libblas=3.8.0=20_mkl
+  - libcblas=3.8.0=20_mkl
+  - liblapack=3.8.0=20_mkl
+  - libpng=1.6.37=h2a8f88b_0
+  - libtiff=4.1.0=h885aae3_6
+  - lz4-c=1.9.2=h62dcd97_2
+  - matplotlib-base=3.2.2=py36h64f37c6_0
+  - mkl=2020.2=256
+  - mkl-service=2.3.0=py36h779f372_2
+  - numpy=1.19.2=py36hc5bf2d3_1
+  - olefile=0.46=pyh9f0ad1d_1
+  - pandas=1.1.3=py36hfcfa802_2
+  - patsy=0.5.1=py_0
+  - pillow=8.0.1=py36he4e95fe_0
+  - pip=20.2.4=py_0
+  - proj=6.2.1=h9f7ef89_0
+  - pyparsing=2.4.7=py_0
+  - pyproj=2.6.1.post1=py36hcfa1391_1
+  - pyshp=2.1.2=py_0
+  - python=3.6.11=h6f26aa1_2_cpython
+  - python-dateutil=2.8.1=py_0
+  - python_abi=3.6=1_cp36m
+  - pytz=2020.1=pyh9f0ad1d_0
+  - scipy=1.5.2=py36h9439919_0
+  - seaborn=0.11.0=0
+  - seaborn-base=0.11.0=py_0
+  - setuptools=49.6.0=py36hd36e781_2
+  - six=1.15.0=py_0
+  - sqlite=3.33.0=h2a8f88b_0
+  - statsmodels=0.12.0=py36h4f3e613_1
+  - tk=8.6.10=he774522_1
+  - tornado=6.0.4=py36he774522_1
+  - tqdm=4.51.0=pyh9f0ad1d_0
+  - vc=14.1=h869be7e_1
+  - vs2015_runtime=14.16.27012=h30e32a0_2
+  - wheel=0.35.1=pyh9f0ad1d_0
+  - wincertstore=0.2=py36h9f0ad1d_1005
+  - xz=5.2.5=h62dcd97_1
+  - zlib=1.2.11=vc14h1cdd9ab_1
+  - zstd=1.4.5=h1f3a1b7_2
+prefix: C:\Anaconda3\envs\winter-wheat-py36
+
